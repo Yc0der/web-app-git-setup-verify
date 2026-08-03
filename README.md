@@ -15,3 +15,7 @@ pnpm dev
 ```
 
 See [CONTRIBUTING.md](./CONTRIBUTING.md) for branching, commit, and PR conventions.
+
+## Status
+
+Verification project for the web-app-git-setup skill. Safe to ignore.
