@@ -22,3 +22,4 @@ Verification project for the web-app-git-setup skill. Safe to ignore.
 <!-- isolation test marker 2026-08-04T12:32:57Z -->
 <!-- checkbox-off test marker -->
 <!-- create-PR test, checkbox off -->
+<!-- checkbox back on, immediate retest -->
