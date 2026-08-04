@@ -19,3 +19,4 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for branching, commit, and PR conventio
 ## Status
 
 Verification project for the web-app-git-setup skill. Safe to ignore.
+<!-- isolation test marker 2026-08-04T12:32:57Z -->
