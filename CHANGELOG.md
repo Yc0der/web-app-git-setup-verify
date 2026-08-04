@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.3.0](https://github.com/Yc0der/web-app-git-setup-verify/compare/v0.2.0...v0.3.0) (2026-08-04)
+
+
+### Features
+
+* add isolation-test marker to README ([#9](https://github.com/Yc0der/web-app-git-setup-verify/issues/9)) ([0c39b0f](https://github.com/Yc0der/web-app-git-setup-verify/commit/0c39b0ff12e069c6b8a05ebe83a0d25762cd1abe))
+* checkbox-off isolation marker ([#11](https://github.com/Yc0der/web-app-git-setup-verify/issues/11)) ([77ba39e](https://github.com/Yc0der/web-app-git-setup-verify/commit/77ba39e32984db69f8ade4fd8326d8f8c09bf5c4))
+
 ## [0.2.0](https://github.com/Yc0der/web-app-git-setup-verify/compare/v0.1.0...v0.2.0) (2026-08-03)
 
 
